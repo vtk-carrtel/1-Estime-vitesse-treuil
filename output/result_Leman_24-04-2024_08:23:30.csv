@@ -1,0 +1,2 @@
+file,sampling_date,inc_start,inc_end,inc_depth_start,inc_depth_end,inc_slope,dec_start,dec_end,dec_depth_start,dec_depth_end,dec_slope
+data/Sonde_Profondeur-Leman/240424-WS-LemanSHL2-06-2024_2024-04-24_16-35-45-804.csv,24/04/2024 08:23:30,24299.001,26761.001,2.153407960199005,296.2724825870646,0.12336916559993831,26795.001,27637.001,296.1895820895522,0.8956716417910435,-0.34008363347306125

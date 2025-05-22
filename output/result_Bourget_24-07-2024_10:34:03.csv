@@ -1,0 +1,2 @@
+file,sampling_date,inc_start,inc_end,inc_depth_start,inc_depth_end,inc_slope,dec_start,dec_end,dec_depth_start,dec_depth_end,dec_slope
+data/Sonde_Profondeur-Bourget/240724-WS-BourgetB-07-2024_2024-07-24_12-50-30-306.csv,24/07/2024 10:34:03,5475.001,6836.001,3.3253532338308456,136.27770149253732,0.09660382367120765,6873.001,7300.001,136.2896766169154,0.5534179104477597,-0.4658741730782712
